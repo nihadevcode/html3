@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.menu {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.p1 {
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+}
+
+.p2 {
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+}
+
+.p3 {
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+}

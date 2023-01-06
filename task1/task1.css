@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.heading {
+    background-color: hotpink;
+    background-size: 300px 200px;
+}
+
+.heading a {
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 50px;
+}

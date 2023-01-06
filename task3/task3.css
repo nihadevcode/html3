@@ -1,0 +1,40 @@
+/* body{
+    background-color: brown;
+} */
+
+.header {
+    text-align: center;
+    background-color: brown;
+    width: 1350px;
+    height: 400px;
+    margin-left: -10px;
+    margin-top: -25px;
+}
+
+.body {
+    background-color: bisque;
+    background-repeat: no-repeat;
+    height: 241px;
+    width: 1350px;
+    margin-left: -10px;
+}
+.menu {
+    color: green;
+    text-transform: uppercase;
+    text-align: center;
+    text-size-adjust: 50px;
+    font-size: 30px;
+    color: green; 
+    text-decoration: none;   
+}
+
+h1{
+    font-weight: bold;
+}
+
+.p1{
+    color: brown;
+}
+.p2{
+    color: brown;
+}
